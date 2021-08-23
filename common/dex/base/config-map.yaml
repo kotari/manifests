@@ -19,7 +19,7 @@ data:
     enablePasswordDB: true
     staticPasswords:
     - email: refdb.gbd.dv@example.com
-      hash: $2b$10$EhWCmOGNIcUGqAWBnzN3Z.x9wdXWQZvDA4iDdDHiwmGs50LryjXqm
+      hash: $2b$10$6j.pNFpcTv8NkEGMyWaku.rgoNjm2KA/NuyGxvq/mNCAHU8OOkFEq
       # https://github.com/dexidp/dex/pull/1601/commits
       # FIXME: Use hashFromEnv instead
     staticClients:
